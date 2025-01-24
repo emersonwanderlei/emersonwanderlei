@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 Eu serei um desenvolvedor full-stack Jr...
-mas, eu sou um profissional de Suporte TI com 8 anos de experiência no Exército Brasileiro, onde me especializei em suporte ao usuário, administração de servidores, manutenção de micro e notebook.
+mas, eu sou um profissional de Suporte TI com 8 anos de experiência no Exército Brasileiro, onde me especializei em suporte ao usuário, administração de servidores, manutenção de micro e notebook e estou em jornada para me tornar desenvolvedor.
 
 ## 🛠 Habilidades
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
