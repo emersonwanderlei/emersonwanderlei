@@ -11,7 +11,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 ![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonwanderlei&show_icons=true&theme=dracula)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={emersonwanderlei}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username=emersonwanderlei&theme=blue-green
 
 
 ## 🚀 Sobre mim
