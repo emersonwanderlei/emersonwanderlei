@@ -3,8 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-wanderlei/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emerson.wanderlei/)
 
-![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonwanderlei&show_icons=true&theme=dracula)
-
 ## 🚀 Sobre mim
 Eu serei um desenvolvedor full-stack Jr...
 mas, eu sou um profissional de Suporte TI com 8 anos de experiência no Exército Brasileiro, onde me especializei em suporte ao usuário, administração de servidores, manutenção de micro e notebook e estou em jornada para me tornar desenvolvedor.
